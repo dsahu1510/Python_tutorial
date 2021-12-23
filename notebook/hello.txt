@@ -1,0 +1,8 @@
+Welcome to PYTHON File Operations
+Multiple lines are
+                             Writing inside the A file.
+                             Thank UAppending a File
+Thank U
+Appending a File
+Thank U
+lines incresed or not??

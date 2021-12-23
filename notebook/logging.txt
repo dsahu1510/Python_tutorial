@@ -1,0 +1,78 @@
+CRITICAL:root:This is Critical Message
+CRITICAL:root:This is Critical Message
+CRITICAL:root:This is Critical Message
+CRITICAL:root:This is Critical Message
+CRITICAL:root:This is Critical Message
+WARNING:root:This is Warning Message
+ERROR:root:This is Error Message
+CRITICAL:root:This is Critical Message
+WARNING:root:This is Warning Message
+ERROR:root:This is Error Message
+CRITICAL:root:This is Critical Message
+WARNING:root:This is Warning Message
+ERROR:root:This is Error Message
+CRITICAL:root:This is Critical Message
+DEBUG:root:This is Debug Message
+INFO:root:This is Info Message
+WARNING:root:This is Warning Message
+ERROR:root:This is Error Message
+CRITICAL:root:This is Critical Message
+DEBUG:root:This is Debug Message
+INFO:root:This is Info Message
+WARNING:root:This is Warning Message
+ERROR:root:This is Error Message
+CRITICAL:root:This is Critical Message
+DEBUG:root:This is Debug Message
+INFO:root:This is Info Message
+WARNING:root:This is Warning Message
+ERROR:root:This is Error Message
+CRITICAL:root:This is Critical Message
+DEBUG:root:This is Debug Message
+INFO:root:This is Info Message
+WARNING:root:This is Warning Message
+ERROR:root:This is Error Message
+CRITICAL:root:This is Critical Message
+INFO:root:Hei DevTeam New Log Tracked..!!
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "<ipython-input-5-4ead41455a0e>", line 7, in <module>
+    print('The Result:',x/y)
+ZeroDivisionError: division by zero
+INFO:root:Logging Finished Guys..!!
+INFO:root:Hei DevTeam New Log Tracked..!!
+ERROR:root:invalid literal for int() with base 10: 'k'
+Traceback (most recent call last):
+  File "<ipython-input-6-4ead41455a0e>", line 6, in <module>
+    y=int(input('Enter Second Number:'))
+ValueError: invalid literal for int() with base 10: 'k'
+INFO:root:Logging Finished Guys..!!
+INFO:root:Hei Dev. Team,New Log Track..!!
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "<ipython-input-7-2573f95da8b3>", line 7, in <module>
+    print('The Result:',x/y)
+ZeroDivisionError: division by zero
+INFO:root:Logging Finished Guys..!!
+INFO:root:Hei Dev. Team,New Log Track..!!
+INFO:root:Logging Finished Guys..!!
+INFO:root:Hei Dev. Team,New Log Track..!!
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "<ipython-input-9-cdc3cbbc0c9a>", line 7, in <module>
+    print('The Result:',x/y)
+ZeroDivisionError: division by zero
+INFO:root:Logging Finished Guys..!!
+INFO:root:Hei Dev. Team,New Log Track..!!
+ERROR:root:invalid literal for int() with base 10: 'l'
+Traceback (most recent call last):
+  File "<ipython-input-10-cdc3cbbc0c9a>", line 6, in <module>
+    y=int(input('Enter Second Number:'))
+ValueError: invalid literal for int() with base 10: 'l'
+INFO:root:Logging Finished Guys..!!
+INFO:root:Hei Dev. Team,New Log Track..!!
+ERROR:root:invalid literal for int() with base 10: 'p'
+Traceback (most recent call last):
+  File "<ipython-input-11-6ae8aa1360c3>", line 6, in <module>
+    y=int(input('Enter Second Number:'))
+ValueError: invalid literal for int() with base 10: 'p'
+INFO:root:Logging Finished Guys..!!
